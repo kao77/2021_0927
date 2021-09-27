@@ -9,6 +9,8 @@
 
 [我的網頁](https://www.nkust.edu.tw/index.php)
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "第一科大")
+![new fig](DOG.jpg "DOG")
+
 
 This is a `text`
 ```
